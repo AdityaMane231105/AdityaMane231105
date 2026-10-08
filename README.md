@@ -6,28 +6,75 @@
   <img src="./dark.svg" alt="Aditya Mane — UI/UX and graphic designer, frontend developer, photographer and tech enthusiast.">
 </picture>
 
+**UI/UX & Graphic Designer · Frontend Developer · Photographer**
+
+[
+
+![GitHub](https://img.shields.io/badge/GitHub-AdityaMane231105-181717?style=for-the-badge&logo=github&logoColor=white)
+
+](https://github.com/AdityaMane231105)
+
 </div>
 
-## Hi, I'm Aditya 👋
+---
 
-I'm a UI/UX and graphic designer, frontend developer, photographer and tech enthusiast.
+## About
 
-## What I do
+I'm Aditya Mane, a UI/UX and graphic designer and frontend developer. I design clean, user-focused interfaces and build them for the web. I'm also a photographer and a tech enthusiast.
 
-- **UI/UX design** — interfaces and experiences
-- **Graphic design** — visual design
-- **Frontend development** — building designs for the web
-- **Photography** — visual storytelling
+## Expertise
+
+| Area | Focus |
+|---|---|
+| **UI/UX Design** | User-focused interfaces and experiences |
+| **Graphic Design** | Visual design and layout |
+| **Frontend Development** | Turning designs into responsive websites |
+| **Photography** | Visual storytelling |
+
+## Tech stack
+
+
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+
+
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+
+
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+
+
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+
+
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+
 
 ## Featured projects
 
-- **[ParkingEase](https://github.com/AdityaMane231105/ParkingEase)** — smart parking management website (JavaScript)
-- **WebShield** — cybersecurity scanner project (repository: *Webshield - Cybersecurity - Scanner*)
-- **[Web-Development](https://github.com/AdityaMane231105/Web-Development)** — minimalist developer portfolio built with HTML, CSS and JS
-- **[Advanced-Object-Oriented-Concepts](https://github.com/AdityaMane231105/Advanced-Object-Oriented-Concepts)** — Java programs demonstrating core and advanced OOP principles
-- **[Data-Structures-Laboratory](https://github.com/AdityaMane231105/Data-Structures-Laboratory)** — core data structures in C, C++ and Java
+| Project | Description | Tech |
+|---|---|---|
+| [**ParkingEase**](https://github.com/AdityaMane231105/ParkingEase) | Smart parking management website | JavaScript |
+| **WebShield** | Cybersecurity scanner project | — |
+| [**Web-Development**](https://github.com/AdityaMane231105/Web-Development) | Minimalist developer portfolio | HTML, CSS, JavaScript |
+| [**Advanced-Object-Oriented-Concepts**](https://github.com/AdityaMane231105/Advanced-Object-Oriented-Concepts) | Programs demonstrating core and advanced OOP principles | Java |
+| [**Data-Structures-Laboratory**](https://github.com/AdityaMane231105/Data-Structures-Laboratory) | Core data structures implementations | C, C++, Java |
 
-[See all 12 repositories →](https://github.com/AdityaMane231105?tab=repositories)
+[View all repositories →](https://github.com/AdityaMane231105?tab=repositories)
 
 ## GitHub activity
 
@@ -35,4 +82,14 @@ I'm a UI/UX and graphic designer, frontend developer, photographer and tech enth
 
 ## Connect
 
-[GitHub](https://github.com/AdityaMane231105)
+[
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+](https://github.com/AdityaMane231105)
+
+---
+
+<div align="center">
+<sub>Designing and building for the web.</sub>
+</div>
