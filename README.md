@@ -3,18 +3,35 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img src="./dark.svg" alt="Aditya Mane — UI/UX & Graphic Designer, Frontend Developer, Cybersecurity Enthusiast and Photographer.">
+  <img
+    src="./light.svg"
+    alt="Aditya Mane — UI/UX & Graphic Designer · Frontend Developer · Cybersecurity Enthusiast"
+    width="100%"
+  />
 </picture>
 
-<h3>UI/UX & Graphic Designer · Frontend Developer · Cybersecurity Enthusiast</h3>
+<br>
+
+<p>
+  <strong>Designing thoughtful interfaces · Building useful products · Exploring secure technology</strong>
+</p>
 
 <p>
   <a href="https://github.com/AdityaMane231105">
     <img src="https://img.shields.io/badge/GitHub-AdityaMane231105-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/aditya-mane-7a454732b">
     <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Mane-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+</p>
+
+<p>
+  <code>UI/UX</code>
+  <code>Frontend</code>
+  <code>Cybersecurity</code>
+  <code>Graphic Design</code>
+  <code>Photography</code>
 </p>
 
 </div>
@@ -156,16 +173,16 @@ I combine **design thinking with technology** to build user-centered web solutio
 <div align="center">
 
 <a href="https://github.com/AdityaMane231105">
-  <img src="https://img.shields.io/badge/GitHub-AdityaMane231105-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-AdityaMane231105-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 <a href="https://www.linkedin.com/in/aditya-mane-7a454732b">
-  <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Mane-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Mane-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
