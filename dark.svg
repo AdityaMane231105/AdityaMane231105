@@ -1,1024 +1,604 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610" role="img" aria-label="Aditya Mane — UI/UX and Graphic Designer, Frontend Developer, Cybersecurity Enthusiast and Photographer. Terminal-style GitHub profile banner.">
-<title>Aditya Mane — GitHub profile</title>
-
-<defs>
-
-<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-<stop offset="0" stop-color="#030712"/>
-<stop offset="1" stop-color="#0B1220"/>
-</linearGradient>
-
-<linearGradient id="acc" x1="0" y1="0" x2="1" y2="0">
-<stop offset="0" stop-color="#7C3AED"/>
-<stop offset=".5" stop-color="#22D3EE"/>
-<stop offset="1" stop-color="#10B981"/>
-<animate attributeName="x1" values="0;.4;0" dur="8s" repeatCount="indefinite"/>
-</linearGradient>
-
-<radialGradient id="g1" cx=".15" cy=".1" r=".6">
-<stop offset="0" stop-color="#7C3AED" stop-opacity=".55"/>
-<stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
-</radialGradient>
-
-<radialGradient id="g2" cx=".9" cy=".95" r=".6">
-<stop offset="0" stop-color="#22D3EE" stop-opacity=".55"/>
-<stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
-</radialGradient>
-
-<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-<path d="M32 0H0V32" fill="none" stroke="#22D3EE" stroke-opacity=".05"/>
-</pattern>
-
-<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
-<rect width="4" height="1" fill="#F8FAFC" fill-opacity=".05"/>
-</pattern>
-
-<clipPath id="frame">
-<rect width="1180" height="610" rx="24"/>
-</clipPath>
-
-<clipPath id="artclip">
-<rect x="48" y="132" width="376" height="360" rx="8"/>
-</clipPath>
-
-<filter id="sh" x="-5%" y="-5%" width="110%" height="115%">
-<feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#0F172A" flood-opacity=".35"/>
-</filter>
-
-</defs>
-
-<style>
-text{
-font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace
-}
-</style>
-
-<g clip-path="url(#frame)">
-
-<rect width="1180" height="610" fill="url(#bg)"/>
-<rect width="1180" height="610" fill="url(#g1)"/>
-<rect width="1180" height="610" fill="url(#g2)"/>
-<rect width="1180" height="610" fill="url(#grid)"/>
-
-<!-- Terminal Header -->
-
-<g>
-
-<rect x="24" y="24" width="1132" height="40" rx="12"
-fill="#0F172A"
-fill-opacity=".30"
-stroke="#22D3EE"
-stroke-opacity=".35"
-filter="url(#sh)"/>
-
-<circle cx="48" cy="44" r="6" fill="#FF5F57"/>
-<circle cx="68" cy="44" r="6" fill="#FEBC2E"/>
-<circle cx="88" cy="44" r="6" fill="#28C840"/>
-
-<text x="590" y="49"
-text-anchor="middle"
-font-size="13"
-fill="#94A3B8">
-aditya@profile:~
-</text>
-
-<text x="1132" y="49"
-text-anchor="end"
-font-size="12"
-letter-spacing="2"
-fill="#10B981">
-[ ONLINE ]
-</text>
-
-<circle cx="1000" cy="44" r="4" fill="#10B981">
-<animate attributeName="opacity"
-values="1;.25;1"
-dur="2s"
-repeatCount="indefinite"/>
-</circle>
-
-</g>
-
-<!-- Left Panel -->
-
-<g opacity="0">
-
-<animate attributeName="opacity"
-values="0;1"
-dur=".6s"
-begin="0s"
-fill="freeze"/>
-
-<rect x="24" y="80"
-width="424"
-height="506"
-rx="16"
-fill="#0F172A"
-fill-opacity=".30"
-stroke="#22D3EE"
-stroke-opacity=".4"
-filter="url(#sh)"/>
-
-<text x="48" y="112"
-font-size="12"
-letter-spacing="3"
-fill="#22D3EE">
-VISUAL.MAP
-</text>
-
-<text x="424" y="112"
-text-anchor="end"
-font-size="11"
-fill="#94A3B8">
-AM / monogram
-</text>
-
-<line x1="48" y1="120"
-x2="424" y2="120"
-stroke="#22D3EE"
-stroke-opacity=".3"/>
-
-</g>
-
-<!-- Visual Area -->
-
-<g clip-path="url(#artclip)">
-
-<g>
-
-<animateTransform
-attributeName="transform"
-type="translate"
-values="0 0;0 -4;0 0"
-dur="7s"
-repeatCount="indefinite"/>
-
-<text x="236" y="170"
-text-anchor="middle"
-font-size="12"
-fill="#67E8F9"
-opacity="0">
-··@#%##++#%#+@· · @*+@ · @*+@
-<animate attributeName="opacity"
-values="0;.95"
-dur=".3s"
-begin=".5s"
-fill="freeze"/>
-</text>
-
-<text x="236" y="190"
-text-anchor="middle"
-font-size="12"
-fill="#67E8F9"
-opacity="0">
-@%#*+*+*##+@ · @*+@ · @*#@
-<animate attributeName="opacity"
-values="0;.95"
-dur=".3s"
-begin=".6s"
-fill="freeze"/>
-</text>
-
-<text x="236" y="210"
-text-anchor="middle"
-font-size="12"
-fill="#67E8F9"
-opacity="0">
-@%*%%+++#%+@ · @%%@ · @#+@
-<animate attributeName="opacity"
-values="0;.95"
-dur=".3s"
-begin=".7s"
-fill="freeze"/>
-</text>
-
-<text x="236" y="230"
-text-anchor="middle"
-font-size="12"
-fill="#67E8F9"
-opacity="0">
-@++@ · @+%@ · @#++++*@ · @%#@
-<animate attributeName="opacity"
-values="0;.95"
-dur=".3s"
-begin=".8s"
-fill="freeze"/>
-</text>
-
-<text x="236" y="250"
-text-anchor="middle"
-font-size="12"
-fill="#67E8F9"
-opacity="0">
-@*#@ · @%%@ · @+*%*+*@ · @*%+
-<animate attributeName="opacity"
-values="0;.95"
-dur=".3s"
-begin=".9s"
-fill="freeze"/>
-</text>
-
-<text x="236" y="270"
-text-anchor="middle"
-font-size="12"
-fill="#67E8F9"
-opacity="0">
-@##@ · @+%@ · @%%###%@ · @%*%
-<animate attributeName="opacity"
-values="0;.95"
-dur=".3s"
-begin="1s"
-fill="freeze"/>
-</text>
-
-<text x="236" y="290"
-text-anchor="middle"
-font-size="12"
-fill="#67E8F9"
-opacity="0">
-@%#@ · @#%@ · @+#@ · @##@ · @*+@
-<animate attributeName="opacity"
-values="0;.95"
-dur=".3s"
-begin="1.1s"
-fill="freeze"/>
-</text>
-
-<text x="236" y="310"
-text-anchor="middle"
-font-size="12"
-fill="#67E8F9"
-opacity="0">
-@+%@ · @%*@ · @+%@ · @+*@ · @++@
-<animate attributeName="opacity"
-values="0;.95"
-dur=".3s"
-begin="1.2s"
-fill="freeze"/>
-</text>
-
-<text x="236" y="330"
-text-anchor="middle"
-font-size="12"
-fill="#67E8F9"
-opacity="0">
-@#+@ · @+*@ · @#*@ · @+*@ · @*#@
-<animate attributeName="opacity"
-values="0;.95"
-dur=".3s"
-begin="1.3s"
-fill="freeze"/>
-</text>
-
-<text x="236" y="350"
-text-anchor="middle"
-font-size="12"
-fill="#67E8F9"
-opacity="0">
-@%%**%*+%**#*###%+%@ · @+*@ · @%+@
-<animate attributeName="opacity"
-values="0;.95"
-dur=".3s"
-begin="1.4s"
-fill="freeze"/>
-</text>
-
-<text x="236" y="370"
-text-anchor="middle"
-font-size="12"
-fill="#67E8F9"
-opacity="0">
-@%##+*%*#+%%*+#****@ · @%%@ · @#+@
-<animate attributeName="opacity"
-values="0;.95"
-dur=".3s"
-begin="1.5s"
-fill="freeze"/>
-</text>
-
-<text x="236" y="390"
-text-anchor="middle"
-font-size="12"
-fill="#67E8F9"
-opacity="0">
-@*+%*%#+%#%###%*#++@ · @+*@ · @#+@
-<animate attributeName="opacity"
-values="0;.95"
-dur=".3s"
-begin="1.6s"
-fill="freeze"/>
-</text>
-
-<text x="236" y="410"
-text-anchor="middle"
-font-size="12"
-fill="#67E8F9"
-opacity="0">
-@+#@ · @#%@ · @#%@ · @%*@ · @++@
-<animate attributeName="opacity"
-values="0;.95"
-dur=".3s"
-begin="1.7s"
-fill="freeze"/>
-</text>
-
-</g>
-
-<rect x="48"
-y="132"
-width="376"
-height="3"
-fill="#22D3EE"
-opacity=".35">
-
-<animate attributeName="y"
-values="132;490;132"
-dur="6s"
-repeatCount="indefinite"/>
-
-</rect>
-
-<rect x="48"
-y="132"
-width="376"
-height="360"
-fill="url(#scan)"/>
-
-</g>
-
-<!-- Left Caption -->
-
-<g opacity="0">
-
-<animate attributeName="opacity"
-values="0;1"
-dur=".6s"
-begin="1.6s"
-fill="freeze"/>
-
-<text x="236"
-y="524"
-text-anchor="middle"
-font-size="14"
-font-weight="700"
-fill="#F8FAFC">
-UI/UX Designer · Frontend Developer
-</text>
-
-<text x="236"
-y="546"
-text-anchor="middle"
-font-size="12"
-fill="#94A3B8">
-design · code · cybersecurity · photography
-</text>
-
-<text x="236"
-y="570"
-text-anchor="middle"
-font-size="12"
-fill="#10B981">
-~/profile $ build --ship
-<tspan fill="#22D3EE">▌
-<animate attributeName="opacity"
-values="1;0;1"
-dur="1s"
-repeatCount="indefinite"/>
-</tspan>
-</text>
-
-</g>
-
-<!-- Right Panel -->
-
-<g opacity="0">
-
-<animate attributeName="opacity"
-values="0;1"
-dur=".6s"
-begin=".3s"
-fill="freeze"/>
-
-<rect x="472"
-y="80"
-width="684"
-height="506"
-rx="16"
-fill="#0F172A"
-fill-opacity=".30"
-stroke="#22D3EE"
-stroke-opacity=".4"
-filter="url(#sh)"/>
-
-<text x="496"
-y="112"
-font-size="12"
-letter-spacing="3"
-fill="#22D3EE">
-SYSTEM.INFO
-</text>
-
-<text x="1132"
-y="112"
-text-anchor="end"
-font-size="11"
-fill="#94A3B8">
-aditya@profile:~$ ./profile.sh
-</text>
-
-<line x1="496"
-y1="120"
-x2="1132"
-y2="120"
-stroke="url(#acc)"
-stroke-width="1.5"/>
-
-</g>
-
-<!-- Name -->
-
-<text x="496"
-y="172"
-font-size="38"
-font-weight="700"
-fill="#F8FAFC"
-opacity="0">
-
-Aditya Mane
-
-<animate attributeName="opacity"
-values="0;1"
-dur=".5s"
-begin=".9s"
-fill="freeze"/>
-
-</text>
-
-<!-- Main Role -->
-
-<text x="496"
-y="202"
-font-size="16"
-fill="url(#acc)"
-opacity="0">
-
-UI/UX &amp; Graphic Designer · Frontend Developer · Cybersecurity Enthusiast
-
-<animate attributeName="opacity"
-values="0;1"
-dur=".5s"
-begin="1.1s"
-fill="freeze"/>
-
-</text>
-
-<!-- Name -->
-
-<text x="640"
-y="250"
-text-anchor="end"
-font-size="13"
-letter-spacing="2"
-fill="#22D3EE"
-opacity="0">
-
-&gt; NAME
-
-<animate attributeName="opacity"
-values="0;1"
-dur=".5s"
-begin="1.3s"
-fill="freeze"/>
-
-</text>
-
-<text x="664"
-y="250"
-font-size="14"
-fill="#F8FAFC"
-opacity="0">
-
-Aditya Mane
-
-<animate attributeName="opacity"
-values="0;1"
-dur=".5s"
-begin="1.3s"
-fill="freeze"/>
-
-</text>
-
-<!-- Role -->
-
-<text x="640"
-y="280"
-text-anchor="end"
-font-size="13"
-letter-spacing="2"
-fill="#22D3EE"
-opacity="0">
-
-&gt; ROLE
-
-<animate attributeName="opacity"
-values="0;1"
-dur=".5s"
-begin="1.45s"
-fill="freeze"/>
-
-</text>
-
-<text x="664"
-y="280"
-font-size="14"
-fill="#F8FAFC"
-opacity="0">
-
-UI/UX Designer
-<tspan fill="#22D3EE">▌</tspan>
-
-<animate attributeName="opacity"
-values="0;1;1;0;0"
-keyTimes="0;.06;.30;.36;1"
-dur="17.5s"
-begin="1.45s"
-repeatCount="indefinite"/>
-
-</text>
-
-<text x="664"
-y="280"
-font-size="14"
-fill="#F8FAFC"
-opacity="0">
-
-Graphic Designer
-<tspan fill="#22D3EE">▌</tspan>
-
-<animate attributeName="opacity"
-values="0;1;1;0;0"
-keyTimes="0;.06;.30;.36;1"
-dur="17.5s"
-begin="4.95s"
-repeatCount="indefinite"/>
-
-</text>
-
-<text x="664"
-y="280"
-font-size="14"
-fill="#F8FAFC"
-opacity="0">
-
-Frontend Developer
-<tspan fill="#22D3EE">▌</tspan>
-
-<animate attributeName="opacity"
-values="0;1;1;0;0"
-keyTimes="0;.06;.30;.36;1"
-dur="17.5s"
-begin="8.45s"
-repeatCount="indefinite"/>
-
-</text>
-
-<text x="664"
-y="280"
-font-size="14"
-fill="#F8FAFC"
-opacity="0">
-
-Cybersecurity Enthusiast
-<tspan fill="#22D3EE">▌</tspan>
-
-<animate attributeName="opacity"
-values="0;1;1;0;0"
-keyTimes="0;.06;.30;.36;1"
-dur="17.5s"
-begin="11.95s"
-repeatCount="indefinite"/>
-
-</text>
-
-<text x="664"
-y="280"
-font-size="14"
-fill="#F8FAFC"
-opacity="0">
-
-Photographer
-<tspan fill="#22D3EE">▌</tspan>
-
-<animate attributeName="opacity"
-values="0;1;1;0;0"
-keyTimes="0;.06;.30;.36;1"
-dur="17.5s"
-begin="15.45s"
-repeatCount="indefinite"/>
-
-</text>
-
-<!-- Focus -->
-
-<text x="640"
-y="310"
-text-anchor="end"
-font-size="13"
-letter-spacing="2"
-fill="#22D3EE"
-opacity="0">
-
-&gt; FOCUS
-
-<animate attributeName="opacity"
-values="0;1"
-dur=".5s"
-begin="1.6s"
-fill="freeze"/>
-
-</text>
-
-<text x="664"
-y="310"
-font-size="14"
-fill="#F8FAFC"
-opacity="0">
-
-UI/UX · frontend · cybersecurity · photography · creative tech
-
-<animate attributeName="opacity"
-values="0;1"
-dur=".5s"
-begin="1.6s"
-fill="freeze"/>
-
-</text>
-
-<!-- Projects -->
-
-<text x="640"
-y="340"
-text-anchor="end"
-font-size="13"
-letter-spacing="2"
-fill="#22D3EE"
-opacity="0">
-
-&gt; PROJECTS
-
-<animate attributeName="opacity"
-values="0;1"
-dur=".5s"
-begin="1.75s"
-fill="freeze"/>
-
-</text>
-
-<text x="664"
-y="340"
-font-size="14"
-fill="#F8FAFC"
-opacity="0">
-
-WebShield · Placement Finder · ParkingEase
-
-<animate attributeName="opacity"
-values="0;1"
-dur=".5s"
-begin="1.75s"
-fill="freeze"/>
-
-</text>
-
-<!-- GitHub -->
-
-<text x="640"
-y="370"
-text-anchor="end"
-font-size="13"
-letter-spacing="2"
-fill="#22D3EE"
-opacity="0">
-
-&gt; GITHUB
-
-<animate attributeName="opacity"
-values="0;1"
-dur=".5s"
-begin="1.9s"
-fill="freeze"/>
-
-</text>
-
-<text x="664"
-y="370"
-font-size="14"
-fill="#F8FAFC"
-opacity="0">
-
-AdityaMane231105
-
-<animate attributeName="opacity"
-values="0;1"
-dur=".5s"
-begin="1.9s"
-fill="freeze"/>
-
-</text>
-
-<!-- Focus Areas -->
-
-<text x="496"
-y="426"
-font-size="12"
-letter-spacing="3"
-fill="#94A3B8"
-opacity="0">
-
-FOCUS AREAS
-
-<animate attributeName="opacity"
-values="0;1"
-dur=".5s"
-begin="2.2s"
-fill="freeze"/>
-
-</text>
-
-<!-- UI/UX -->
-
-<g opacity="0">
-
-<animate attributeName="opacity"
-values="0;1"
-dur=".5s"
-begin="2.3s"
-fill="freeze"/>
-
-<rect x="496"
-y="438"
-width="138"
-height="28"
-rx="14"
-fill="#22D3EE"
-fill-opacity=".12"
-stroke="#22D3EE"
-stroke-opacity=".5"/>
-
-<circle cx="510"
-cy="452"
-r="3.5"
-fill="#10B981">
-
-<animate attributeName="opacity"
-values="1;.3;1"
-dur="2s"
-repeatCount="indefinite"/>
-
-</circle>
-
-<text x="522"
-y="456"
-font-size="12"
-fill="#F8FAFC">
-UI/UX Design
-</text>
-
-</g>
-
-<!-- Graphic Design -->
-
-<g opacity="0">
-
-<animate attributeName="opacity"
-values="0;1"
-dur=".5s"
-begin="2.42s"
-fill="freeze"/>
-
-<rect x="644"
-y="438"
-width="155"
-height="28"
-rx="14"
-fill="#22D3EE"
-fill-opacity=".12"
-stroke="#22D3EE"
-stroke-opacity=".5"/>
-
-<circle cx="658"
-cy="452"
-r="3.5"
-fill="#10B981">
-
-<animate attributeName="opacity"
-values="1;.3;1"
-dur="2.4s"
-repeatCount="indefinite"/>
-
-</circle>
-
-<text x="670"
-y="456"
-font-size="12"
-fill="#F8FAFC">
-Graphic Design
-</text>
-
-</g>
-
-<!-- Frontend -->
-
-<g opacity="0">
-
-<animate attributeName="opacity"
-values="0;1"
-dur=".5s"
-begin="2.54s"
-fill="freeze"/>
-
-<rect x="809"
-y="438"
-width="138"
-height="28"
-rx="14"
-fill="#22D3EE"
-fill-opacity=".12"
-stroke="#22D3EE"
-stroke-opacity=".5"/>
-
-<circle cx="823"
-cy="452"
-r="3.5"
-fill="#10B981">
-
-<animate attributeName="opacity"
-values="1;.3;1"
-dur="2.8s"
-repeatCount="indefinite"/>
-
-</circle>
-
-<text x="835"
-y="456"
-font-size="12"
-fill="#F8FAFC">
-Frontend Dev
-</text>
-
-</g>
-
-<!-- Cybersecurity -->
-
-<g opacity="0">
-
-<animate attributeName="opacity"
-values="0;1"
-dur=".5s"
-begin="2.66s"
-fill="freeze"/>
-
-<rect x="957"
-y="438"
-width="130"
-height="28"
-rx="14"
-fill="#22D3EE"
-fill-opacity=".12"
-stroke="#22D3EE"
-stroke-opacity=".5"/>
-
-<circle cx="971"
-cy="452"
-r="3.5"
-fill="#10B981">
-
-<animate attributeName="opacity"
-values="1;.3;1"
-dur="3.2s"
-repeatCount="indefinite"/>
-
-</circle>
-
-<text x="983"
-y="456"
-font-size="12"
-fill="#F8FAFC">
-Cybersecurity
-</text>
-
-</g>
-
-<!-- Links -->
-
-<text x="496"
-y="504"
-font-size="12"
-letter-spacing="3"
-fill="#94A3B8"
-opacity="0">
-
-LINKS
-
-<animate attributeName="opacity"
-values="0;1"
-dur=".5s"
-begin="2.9s"
-fill="freeze"/>
-
-</text>
-
-<!-- GitHub Button -->
-
-<g opacity="0">
-
-<animate attributeName="opacity"
-values="0;1"
-dur=".5s"
-begin="3s"
-fill="freeze"/>
-
-<rect x="496"
-y="516"
-width="77"
-height="26"
-rx="8"
-fill="#F8FAFC"
-fill-opacity=".05"
-stroke="#22D3EE"
-stroke-opacity=".35"/>
-
-<text x="535"
-y="533"
-text-anchor="middle"
-font-size="12"
-fill="#F8FAFC">
-GitHub
-</text>
-
-</g>
-
-<!-- LinkedIn Button -->
-
-<g opacity="0">
-
-<animate attributeName="opacity"
-values="0;1"
-dur=".5s"
-begin="3.15s"
-fill="freeze"/>
-
-<rect x="585"
-y="516"
-width="87"
-height="26"
-rx="8"
-fill="#F8FAFC"
-fill-opacity=".05"
-stroke="#22D3EE"
-stroke-opacity=".35"/>
-
-<text x="628"
-y="533"
-text-anchor="middle"
-font-size="12"
-fill="#F8FAFC">
-LinkedIn
-</text>
-
-</g>
-
-<!-- Footer -->
-
-<text x="1132"
-y="568"
-text-anchor="end"
-font-size="11"
-fill="#94A3B8"
-opacity="0">
-
-github.com/AdityaMane231105 · linkedin.com/in/aditya-mane-7a454732b
-
-<animate attributeName="opacity"
-values="0;1"
-dur=".5s"
-begin="3.6s"
-fill="freeze"/>
-
-</text>
-
-<!-- Border -->
-
-<rect x="1"
-y="1"
-width="1178"
-height="608"
-rx="24"
-fill="none"
-stroke="url(#acc)"
-stroke-opacity=".6"
-stroke-width="1.5"/>
-
-</g>
+<svg width="1180" height="610" viewBox="0 0 1180 610"
+     fill="none" xmlns="http://www.w3.org/2000/svg"
+     role="img"
+     aria-label="Aditya Mane — UI/UX & Graphic Designer, Frontend Developer, Cybersecurity Enthusiast">
+
+  <defs>
+
+    <!-- Background -->
+    <linearGradient id="bg" x1="0" y1="0" x2="1180" y2="610" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050816"/>
+      <stop offset="0.55" stop-color="#0A1020"/>
+      <stop offset="1" stop-color="#070B16"/>
+    </linearGradient>
+
+    <!-- Accent -->
+    <linearGradient id="accent" x1="220" y1="100" x2="900" y2="500" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="0.5" stop-color="#6366F1"/>
+      <stop offset="1" stop-color="#A855F7"/>
+    </linearGradient>
+
+    <linearGradient id="accentSoft" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#22D3EE" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0.05"/>
+    </linearGradient>
+
+    <!-- Glow -->
+    <filter id="glowCyan" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="glowPurple" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Grid -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40"
+            stroke="#FFFFFF"
+            stroke-opacity="0.035"
+            stroke-width="1"/>
+    </pattern>
+
+    <!-- Clip -->
+    <clipPath id="mainClip">
+      <rect x="1" y="1" width="1178" height="608" rx="20"/>
+    </clipPath>
+
+    <!-- Animation -->
+    <style>
+      .fade {
+        animation: fadeIn 1.2s ease-out both;
+      }
+
+      .delay1 {
+        animation-delay: .15s;
+      }
+
+      .delay2 {
+        animation-delay: .3s;
+      }
+
+      .delay3 {
+        animation-delay: .45s;
+      }
+
+      .delay4 {
+        animation-delay: .6s;
+      }
+
+      .pulse {
+        animation: pulse 2.4s ease-in-out infinite;
+      }
+
+      .scan {
+        animation: scan 5s linear infinite;
+      }
+
+      @keyframes fadeIn {
+        from {
+          opacity: 0;
+          transform: translateY(8px);
+        }
+        to {
+          opacity: 1;
+          transform: translateY(0);
+        }
+      }
+
+      @keyframes pulse {
+        0%,100% {
+          opacity: .45;
+          transform: scale(1);
+        }
+        50% {
+          opacity: 1;
+          transform: scale(1.15);
+        }
+      }
+
+      @keyframes scan {
+        0% {
+          transform: translateY(-610px);
+          opacity: 0;
+        }
+        15% {
+          opacity: .35;
+        }
+        50% {
+          opacity: .12;
+        }
+        100% {
+          transform: translateY(610px);
+          opacity: 0;
+        }
+      }
+    </style>
+
+  </defs>
+
+
+  <!-- ========================================================= -->
+  <!-- BACKGROUND -->
+  <!-- ========================================================= -->
+
+  <rect width="1180" height="610" rx="20" fill="url(#bg)"/>
+
+  <g clip-path="url(#mainClip)">
+    <rect width="1180" height="610" fill="url(#grid)"/>
+
+    <!-- Ambient glow -->
+    <circle cx="130" cy="120" r="150"
+            fill="#22D3EE"
+            fill-opacity="0.035"
+            filter="url(#glowCyan)"/>
+
+    <circle cx="1040" cy="480" r="190"
+            fill="#7C3AED"
+            fill-opacity="0.045"
+            filter="url(#glowPurple)"/>
+
+    <!-- subtle scan -->
+    <rect x="0" y="0" width="1180" height="2"
+          fill="url(#accent)"
+          opacity="0.25"
+          class="scan"/>
+  </g>
+
+
+  <!-- ========================================================= -->
+  <!-- OUTER FRAME -->
+  <!-- ========================================================= -->
+
+  <rect x="1" y="1"
+        width="1178" height="608"
+        rx="20"
+        stroke="#1E293B"
+        stroke-width="2"/>
+
+
+  <!-- ========================================================= -->
+  <!-- TERMINAL HEADER -->
+  <!-- ========================================================= -->
+
+  <rect x="1" y="1"
+        width="1178" height="58"
+        rx="20"
+        fill="#080D19"/>
+
+  <line x1="1" y1="58"
+        x2="1179" y2="58"
+        stroke="#1E293B"/>
+
+  <!-- traffic lights -->
+  <circle cx="28" cy="29" r="6" fill="#EF4444"/>
+  <circle cx="49" cy="29" r="6" fill="#F59E0B"/>
+  <circle cx="70" cy="29" r="6" fill="#22C55E"/>
+
+  <text x="96" y="35"
+        fill="#94A3B8"
+        font-family="monospace"
+        font-size="14">
+    aditya@profile:~
+  </text>
+
+  <text x="1015" y="35"
+        fill="#64748B"
+        font-family="monospace"
+        font-size="12">
+    STATUS
+  </text>
+
+  <circle cx="1081" cy="29" r="5"
+          fill="#22C55E"
+          class="pulse"
+          filter="url(#glowCyan)"/>
+
+  <text x="1094" y="35"
+        fill="#22C55E"
+        font-family="monospace"
+        font-size="12"
+        font-weight="700">
+    ONLINE
+  </text>
+
+
+  <!-- ========================================================= -->
+  <!-- LEFT IDENTITY PANEL -->
+  <!-- ========================================================= -->
+
+  <rect x="32" y="82"
+        width="365" height="485"
+        rx="18"
+        fill="#0B1220"
+        stroke="#1E293B"/>
+
+  <!-- top accent -->
+  <rect x="32" y="82"
+        width="365" height="3"
+        rx="2"
+        fill="url(#accent)"/>
+
+
+  <!-- geometric identity -->
+  <g class="fade">
+
+    <circle cx="214" cy="220"
+            r="108"
+            fill="url(#accentSoft)"
+            stroke="#1E293B"/>
+
+    <circle cx="214" cy="220"
+            r="82"
+            fill="#080E1B"
+            stroke="#22D3EE"
+            stroke-opacity="0.25"/>
+
+    <!-- AM monogram -->
+    <path d="M164 264V180L191 232L218 180V264"
+          stroke="#22D3EE"
+          stroke-width="8"
+          stroke-linecap="round"
+          stroke-linejoin="round"/>
+
+    <path d="M219 264V180L274 264V180"
+          stroke="#A855F7"
+          stroke-width="8"
+          stroke-linecap="round"
+          stroke-linejoin="round"/>
+
+    <circle cx="214" cy="220"
+            r="116"
+            stroke="url(#accent)"
+            stroke-opacity="0.25"
+            stroke-dasharray="4 12"/>
+
+  </g>
+
+
+  <text x="214" y="350"
+        text-anchor="middle"
+        fill="#F8FAFC"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="28"
+        font-weight="700"
+        class="fade delay1">
+    Aditya Mane
+  </text>
+
+  <text x="214" y="378"
+        text-anchor="middle"
+        fill="#22D3EE"
+        font-family="monospace"
+        font-size="12"
+        letter-spacing="2"
+        class="fade delay2">
+    DESIGN × TECHNOLOGY
+  </text>
+
+  <line x1="95" y1="404"
+        x2="333" y2="404"
+        stroke="#1E293B"/>
+
+  <text x="214" y="435"
+        text-anchor="middle"
+        fill="#CBD5E1"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="14"
+        class="fade delay2">
+    Design thoughtful experiences.
+  </text>
+
+  <text x="214" y="458"
+        text-anchor="middle"
+        fill="#CBD5E1"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="14"
+        class="fade delay3">
+    Build meaningful technology.
+  </text>
+
+  <!-- left mini status -->
+  <g class="fade delay4">
+    <circle cx="108" cy="506" r="4" fill="#22C55E"/>
+    <text x="120" y="510"
+          fill="#64748B"
+          font-family="monospace"
+          font-size="11">
+      CREATIVE
+    </text>
+
+    <circle cx="203" cy="506" r="4" fill="#22D3EE"/>
+    <text x="215" y="510"
+          fill="#64748B"
+          font-family="monospace"
+          font-size="11">
+      BUILDING
+    </text>
+
+    <circle cx="300" cy="506" r="4" fill="#A855F7"/>
+    <text x="312" y="510"
+          fill="#64748B"
+          font-family="monospace"
+          font-size="11">
+      LEARNING
+    </text>
+  </g>
+
+
+  <!-- ========================================================= -->
+  <!-- RIGHT INFORMATION PANEL -->
+  <!-- ========================================================= -->
+
+  <rect x="420" y="82"
+        width="728" height="485"
+        rx="18"
+        fill="#0B1220"
+        stroke="#1E293B"/>
+
+  <rect x="420" y="82"
+        width="728" height="3"
+        rx="2"
+        fill="url(#accent)"/>
+
+
+  <!-- system header -->
+  <text x="452" y="120"
+        fill="#64748B"
+        font-family="monospace"
+        font-size="11"
+        letter-spacing="1.5">
+    SYSTEM.INFO
+  </text>
+
+  <text x="1055" y="120"
+        text-anchor="end"
+        fill="#334155"
+        font-family="monospace"
+        font-size="11">
+    PROFILE.SH
+  </text>
+
+
+  <!-- NAME -->
+  <text x="452" y="170"
+        fill="#F8FAFC"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="39"
+        font-weight="700"
+        class="fade">
+    Aditya Mane
+  </text>
+
+  <text x="452" y="202"
+        fill="#22D3EE"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="16"
+        font-weight="600"
+        class="fade delay1">
+    UI/UX &amp; Graphic Designer · Frontend Developer
+  </text>
+
+  <text x="452" y="227"
+        fill="#94A3B8"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="14"
+        class="fade delay2">
+    Cybersecurity Enthusiast
+  </text>
+
+
+  <!-- command line -->
+  <rect x="452" y="250"
+        width="664" height="45"
+        rx="8"
+        fill="#070C16"
+        stroke="#172033"/>
+
+  <circle cx="470" cy="272" r="4" fill="#22C55E"/>
+
+  <text x="484" y="277"
+        fill="#64748B"
+        font-family="monospace"
+        font-size="12">
+    ~/profile $
+  </text>
+
+  <text x="574" y="277"
+        fill="#E2E8F0"
+        font-family="monospace"
+        font-size="12">
+    build --design --secure --create
+  </text>
+
+
+  <!-- divider -->
+  <line x1="452" y1="320"
+        x2="1116" y2="320"
+        stroke="#1E293B"/>
+
+
+  <!-- FOCUS -->
+  <text x="452" y="348"
+        fill="#64748B"
+        font-family="monospace"
+        font-size="10"
+        letter-spacing="1.5">
+    FOCUS
+  </text>
+
+  <!-- chips -->
+  <rect x="452" y="363"
+        width="128" height="31"
+        rx="15.5"
+        fill="#22D3EE"
+        fill-opacity="0.08"
+        stroke="#22D3EE"
+        stroke-opacity="0.25"/>
+
+  <text x="516" y="383"
+        text-anchor="middle"
+        fill="#67E8F9"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="11"
+        font-weight="600">
+    UI/UX DESIGN
+  </text>
+
+
+  <rect x="590" y="363"
+        width="128" height="31"
+        rx="15.5"
+        fill="#6366F1"
+        fill-opacity="0.08"
+        stroke="#6366F1"
+        stroke-opacity="0.25"/>
+
+  <text x="654" y="383"
+        text-anchor="middle"
+        fill="#A5B4FC"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="11"
+        font-weight="600">
+    FRONTEND
+  </text>
+
+
+  <rect x="728" y="363"
+        width="143" height="31"
+        rx="15.5"
+        fill="#7C3AED"
+        fill-opacity="0.08"
+        stroke="#7C3AED"
+        stroke-opacity="0.25"/>
+
+  <text x="799.5" y="383"
+        text-anchor="middle"
+        fill="#C4B5FD"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="11"
+        font-weight="600">
+    CYBERSECURITY
+  </text>
+
+
+  <rect x="881" y="363"
+        width="128" height="31"
+        rx="15.5"
+        fill="#10B981"
+        fill-opacity="0.08"
+        stroke="#10B981"
+        stroke-opacity="0.25"/>
+
+  <text x="945" y="383"
+        text-anchor="middle"
+        fill="#6EE7B7"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="11"
+        font-weight="600">
+    PHOTOGRAPHY
+  </text>
+
+
+  <!-- PROJECTS -->
+  <text x="452" y="430"
+        fill="#64748B"
+        font-family="monospace"
+        font-size="10"
+        letter-spacing="1.5">
+    FEATURED PROJECTS
+  </text>
+
+  <text x="452" y="457"
+        fill="#E2E8F0"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="13"
+        font-weight="600">
+    WebShield
+  </text>
+
+  <text x="552" y="457"
+        fill="#475569"
+        font-family="monospace"
+        font-size="12">
+    ·
+  </text>
+
+  <text x="568" y="457"
+        fill="#E2E8F0"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="13"
+        font-weight="600">
+    Placement Finder
+  </text>
+
+  <text x="720" y="457"
+        fill="#475569"
+        font-family="monospace"
+        font-size="12">
+    ·
+  </text>
+
+  <text x="737" y="457"
+        fill="#E2E8F0"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="13"
+        font-weight="600">
+    ParkingEase
+  </text>
+
+
+  <!-- LINKS -->
+  <text x="452" y="496"
+        fill="#64748B"
+        font-family="monospace"
+        font-size="10"
+        letter-spacing="1.5">
+    CONNECT
+  </text>
+
+  <text x="452" y="522"
+        fill="#22D3EE"
+        font-family="monospace"
+        font-size="12">
+    github.com/AdityaMane231105
+  </text>
+
+  <text x="790" y="522"
+        fill="#A5B4FC"
+        font-family="monospace"
+        font-size="12">
+    linkedin.com/in/aditya-mane-7a454732b
+  </text>
+
+
+  <!-- bottom footer -->
+  <line x1="452" y1="540"
+        x2="1116" y2="540"
+        stroke="#172033"/>
+
+  <text x="452" y="558"
+        fill="#475569"
+        font-family="monospace"
+        font-size="10">
+    DESIGN → BUILD → SECURE → CREATE
+  </text>
+
+  <text x="1116" y="558"
+        text-anchor="end"
+        fill="#334155"
+        font-family="monospace"
+        font-size="10">
+    v1.0 / 2026
+  </text>
 
 </svg>
